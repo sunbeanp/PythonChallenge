@@ -56,6 +56,14 @@ It runs 250 times, so number of 249 is the answer.
        
 -> peak        
            
+       
+         
+## Level 5    
+      
+peak hell -> pickle        
+       
+('', 95) -> '' x 95 and ('#', 14) -> '#' x 14 (you will see after picle.load()...)      
+        
+sol) use python pickle    
 
-
-
+-> channel
