@@ -1,5 +1,5 @@
              
-**Python Challenge**            
+# Python Challenge            
                  
 These are solutions for [pythonchallenge](http://www.pythonchallenge.com/)                 
                      
@@ -60,9 +60,9 @@ It runs 250 times, so number of 249 is the answer.
          
 ## Level 5    
       
-peak hell -> pickle        
+peak hell -> pickle (Try to pronounce that word quickly!)        
        
-('', 95) -> '' x 95 and ('#', 14) -> '#' x 14 (you will see after picle.load()...)      
+(' ', 95) -> ' ' * 95 and ('#', 14) -> '#' * 14 (you will see after pickle.load()...)      
         
 sol) use python pickle    
 
